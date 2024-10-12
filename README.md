@@ -41,6 +41,7 @@ data = pd.read_csv("Mall_Customers.csv")
 data.head()
 data.info()
 data.isnull().sum()
+
 from sklearn.cluster import KMeans
 wcss = []
 for i in range(1,11):
