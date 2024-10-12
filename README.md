@@ -21,7 +21,7 @@ Step 5. Find the sum of squared distance between each points and the centroid in
 
 Step 6. Plot the graph x and y as Number of Clusters and wcss respectively
 
-Step 7. Using the matplotlib library draw the scatter plot for the given number of clusters (ie. here n_clusters = 5)
+Step 7. Using the matplotlib library draw the scatter plot for the given number of clusters 
 
 Step 8. Stop the program
 
